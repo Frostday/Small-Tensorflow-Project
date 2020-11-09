@@ -1,3 +1,3 @@
-# Small-Tensorflow-Projects
+# TensorflowProjects
 
-This repository contains some small and basic deep learning models made using Tensorflow framework.
+This repository contains deep learning models made using Tensorflow framework.
